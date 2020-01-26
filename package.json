@@ -1,0 +1,22 @@
+{
+  "name": "hello-mars",
+  "version": "1.0.1",
+  "description": "Say hello to Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huemac/hello-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "huemac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huemac/hello-mars/issues"
+  },
+  "homepage": "https://github.com/huemac/hello-mars#readme"
+}
